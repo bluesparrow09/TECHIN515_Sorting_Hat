@@ -17,6 +17,8 @@ The system runs on an ESP32 and uses a small machine learning model trained on s
   - Collect user answers through button inputs
   - Predict and display the assigned Hogwarts house
     
+# Video
+  https://drive.google.com/file/d/1iGcjHwUeRmm7t4k_P9UMDjE8TeTTxWr3/view?usp=sharing
 
 # Key Observations
 - Initially, I collected only 10 entries of data, and the model accuracy was very low (about 0%).
