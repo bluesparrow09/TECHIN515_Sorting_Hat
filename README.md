@@ -24,6 +24,9 @@ During training:
 - With 100 entries, the model achieved 100% accuracy.
 This highlights the importance of having enough and varied training data.
 
+## Video
+https://drive.google.com/file/d/1iGcjHwUeRmm7t4k_P9UMDjE8TeTTxWr3/view?usp=drive_link
+
 ## Discussion
 
 ### Observations
